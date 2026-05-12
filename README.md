@@ -18,5 +18,3 @@ Focus timer with Pomodoro technique, task list, audio notifications and auto mod
 npm install && npm run dev
 ```
 
-## License
-MIT — Kenza Nabaghi
